@@ -1,6 +1,6 @@
-C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\3\bin\Debug\3.exe.config
-C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\3\bin\Debug\3.exe
-C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\3\bin\Debug\3.pdb
-C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\3\obj\Debug\3.exe
-C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\3\obj\Debug\3.pdb
-C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\3\obj\Debug\3.csprojResolveAssemblyReference.cache
+C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\hse practise\bin\Debug\hse practise.exe.config
+C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\hse practise\obj\Debug\hse practise.exe
+C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\hse practise\obj\Debug\hse practise.pdb
+C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\hse practise\bin\Debug\hse practise.exe
+C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\hse practise\bin\Debug\hse practise.pdb
+C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\hse practise\obj\Debug\3.csprojResolveAssemblyReference.cache
