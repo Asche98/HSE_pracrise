@@ -1,0 +1,6 @@
+C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\12\bin\Debug\12.exe.config
+C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\12\obj\Debug\12.csprojResolveAssemblyReference.cache
+C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\12\bin\Debug\12.exe
+C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\12\bin\Debug\12.pdb
+C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\12\obj\Debug\12.exe
+C:\Users\Zver\documents\visual studio 2015\Projects\hse practise\12\obj\Debug\12.pdb
